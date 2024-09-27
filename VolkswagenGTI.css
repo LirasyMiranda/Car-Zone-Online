@@ -331,28 +331,28 @@ a{
  .slide-img1{
     width: 70%;
     height: 100%;
-    background: url(/GTI/gti-carrusel1.webp);
+    background: url(GTI/gti-carrusel1.webp);
     background-position: center;
     background-size: cover;
  }
  .slide-img2{
     width: 70%;
     height: 100%;
-    background: url(/GTI/gti-carrusel6.webp);
+    background: url(GTI/gti-carrusel6.webp);
     background-position: center;
     background-size: cover;
  }
  .slide-img3{
     width: 70%;
     height: 100%;
-    background: url(/GTI/gti-carrusel3.webp);
+    background: url(GTI/gti-carrusel3.webp);
     background-position: center;
     background-size: cover;
  }
  .slide-img4{
     width: 70%;
     height: 100%;
-    background: url(/GTI/gti-carrusel4.webp);
+    background: url(GTI/gti-carrusel4.webp);
     background-position: center;
     background-size: cover;
  }
@@ -416,7 +416,7 @@ a{
  #slide2:checked ~ #controls label:nth-child(3),
  #slide3:checked ~ #controls label:nth-child(4),
  #slide4:checked ~ #controls label:nth-child(1) {
-    background: url(/chevron-right-regular-24.png) no-repeat;
+    background: url(chevron-right-regular-24.png) no-repeat;
     float:right;
     margin: 0 -50px 0 0;
     display: block;
@@ -425,7 +425,7 @@ a{
  #slide2:checked ~ #controls label:nth-last-child(3),
  #slide3:checked ~ #controls label:nth-last-child(4),
  #slide4:checked ~ #controls label:nth-last-child(1) {
-    background: url(/chevron-left-regular-24.png) no-repeat;
+    background: url(chevron-left-regular-24.png) no-repeat;
     float:left;
     margin: 0 0 0 -50px;
     display: block;
